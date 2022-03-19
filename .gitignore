@@ -1,0 +1,16 @@
+.tmp.mk
+node_modules
+.idea
+.DS_Store
+.blocklet
+
+!.env
+.env.*
+.yalc
+yalc.lock
+
+blocklet.js
+!**/blocklet.js
+.eslintcache
+yarn-error.log
+dist
